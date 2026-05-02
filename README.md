@@ -1,4 +1,4 @@
-# VotePath AI — Personalized Election Journey Assistant
+# VoteGuideAI — Personalized Election Journey Assistant
 
 > 🗳️ AI-powered platform that guides Indian citizens through the entire voting process using official Election Commission of India (ECI) data.
 
